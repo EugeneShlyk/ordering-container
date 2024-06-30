@@ -1,6 +1,0 @@
-.table {
-  display: grid;
-  grid-template-columns: 2fr repeat(7, 1fr) ;
-  margin: 0;
-  padding: 0;
-}
